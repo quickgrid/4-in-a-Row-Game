@@ -11,7 +11,7 @@ All assets are included open, which can be viewed by anyone by navigating to fol
 
 ![Component Description Diagram](component_description_diagram.jpg)
 
-![Function Diagram](game projectv5.jpg)
+![Function Diagram](function_diagram.jpg)
 
 ![UI Diagram](game_user_interface_diagram.jpg)
 
